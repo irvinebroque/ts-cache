@@ -1,0 +1,48 @@
+{
+  "name": "stets",
+  "version": "0.0.2",
+  "description": "EMERGED STETS - Date based stats collection and statistical analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui bdd --reporter spec test.js"
+  },
+  "keywords": [
+    "stats",
+    "stets",
+    "STETS",
+    "EMERGED"
+  ],
+  "author": {
+    "name": "Arnout Kazemier"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fast-stats": "0.0.x",
+    "fusing": "0.3.x",
+    "moment-range": "1.0.x"
+  },
+  "devDependencies": {
+    "assume": "0.0.x",
+    "mocha": "1.21.x"
+  },
+  "_id": "stets@0.0.2",
+  "_shasum": "5432e734333c691af22d78d7ada66be8734ffe03",
+  "_from": "stets@0.0.2",
+  "_npmVersion": "1.4.27",
+  "_npmUser": {
+    "name": "V1",
+    "email": "info@3rd-Eden.com"
+  },
+  "maintainers": [
+    {
+      "name": "V1",
+      "email": "info@3rd-Eden.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5432e734333c691af22d78d7ada66be8734ffe03",
+    "tarball": "http://registry.npmjs.org/stets/-/stets-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/stets/-/stets-0.0.2.tgz"
+}
